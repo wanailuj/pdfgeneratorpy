@@ -2,7 +2,7 @@ from fpdf import FPDF
 from jinja2 import Environment, FileSystemLoader
 
 # Defina o caminho para o arquivo HTML
-arquivo_html = 'receita.html'
+arquivo_html = 'arqhtml.html'
 
 # Configurações do PDF
 opcoes_pdf = {
