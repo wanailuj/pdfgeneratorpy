@@ -1,0 +1,35 @@
+# Arquivos e diretórios a serem ignorados
+
+# Ambientes virtuais Python
+venv/
+env/
+*.venv/
+.venv/
+.venv3/
+__pycache__/
+
+# Byte-compiled / interpretados
+*.pyc
+*.pyo
+*.pyd
+
+# Arquivos de configuração do IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs e arquivos de saída
+*.log
+*.csv
+*.txt
+
+# Arquivos de dados
+*.sqlite3
+*.db
+
+# Outros
+*.pyz
+*.pyzw
+.DS_Store
+Thumbs.db
